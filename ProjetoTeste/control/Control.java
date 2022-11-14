@@ -1,6 +1,8 @@
+import java.util.List;
 import java.util.ArrayList;
+
 public class Control{
 
-	ArrayList<Pessoa> listaPessoas = new ArrayList<Pessoa>();
+	List<Pessoa> listaPessoas = new ArrayList<Pessoa>();
 
 }
