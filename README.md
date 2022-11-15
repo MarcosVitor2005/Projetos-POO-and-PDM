@@ -1,2 +1,3 @@
 # Projetos-POO-and-PDM
-Projetos
+Projetos de POO (programação orientada à objetos) e PDM (programação de dispositivos móveis)
+
